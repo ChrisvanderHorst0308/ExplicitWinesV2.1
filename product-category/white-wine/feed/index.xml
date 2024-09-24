@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>White Wine &#8211; Explicit Wines</title>
+	<atom:link href="/product-category/white-wine/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Jul 2021 06:20:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Rustic Silk Knife</title>
+		<link>/product/rustic-silk-knife/</link>
+					<comments>/product/rustic-silk-knife/#respond</comments>
+		
+		<dc:creator><![CDATA[chrisd6a735f0f9]]></dc:creator>
+		<pubDate>Sat, 10 Jul 2021 06:20:55 +0000</pubDate>
+				<guid isPermaLink="false">https://demo2wpopal.b-cdn.net/bodoni/product/rustic-silk-knife/</guid>
+
+					<description><![CDATA[Reprehenderit soluta corrupti inventore adipisci commodi. Consectetur magni tenetur sunt qui. Quae voluptate omnis est enim dignissimos a. Odit rerum eos et aut dolore.]]></description>
+										<content:encoded><![CDATA[<p>Nesciunt ab dicta vero ducimus laborum accusantium iure sunt. Expedita corrupti enim voluptatem vero aut qui voluptas. Minima velit modi et excepturi sit cupiditate delectus. Dolor numquam sint eos voluptatibus earum asperiores.</p>
+<p>Quo harum corporis hic culpa. Temporibus neque ea nihil corrupti accusamus a. Ipsum ipsa soluta distinctio aliquid dolor.</p>
+<p>Odio voluptatibus aliquam voluptatem qui. Ducimus quia sapiente quo et quis voluptatem quis.</p>
+<p>Ratione aliquam non repellat est. Ullam quis maiores et aliquam. Deserunt architecto sed eveniet excepturi ipsa. Architecto et eos quos beatae voluptas perferendis.</p>
+<p>Et quis quidem voluptate. Adipisci voluptas magni adipisci voluptas velit ipsum impedit. Debitis reiciendis dolores provident odio.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/rustic-silk-knife/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rustic Bronze Keyboard</title>
+		<link>/product/rustic-bronze-keyboard/</link>
+					<comments>/product/rustic-bronze-keyboard/#respond</comments>
+		
+		<dc:creator><![CDATA[chrisd6a735f0f9]]></dc:creator>
+		<pubDate>Sat, 10 Jul 2021 06:20:50 +0000</pubDate>
+				<guid isPermaLink="false">https://demo2wpopal.b-cdn.net/bodoni/product/rustic-bronze-keyboard/</guid>
+
+					<description><![CDATA[Nisi perspiciatis saepe praesentium officia sunt et. Quisquam et sequi est atque fuga.]]></description>
+										<content:encoded><![CDATA[<p>Quo reprehenderit optio voluptatum nam repudiandae. Accusantium alias facere dolores est. Pariatur beatae aperiam qui doloremque mollitia dolorem. Voluptatem quidem corporis quisquam cupiditate tempora.</p>
+<p>Ipsum est voluptatem explicabo alias deleniti nisi ex. Laudantium ea aut earum placeat aut voluptatem. Quasi tenetur voluptas quidem sequi minus ea.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/rustic-bronze-keyboard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

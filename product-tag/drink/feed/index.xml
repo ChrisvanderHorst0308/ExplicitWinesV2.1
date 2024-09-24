@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Drink &#8211; Explicit Wines</title>
+	<atom:link href="/product-tag/drink/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Jul 2021 06:20:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Enormous Wooden Wallet</title>
+		<link>/product/enormous-wooden-wallet/</link>
+					<comments>/product/enormous-wooden-wallet/#respond</comments>
+		
+		<dc:creator><![CDATA[chrisd6a735f0f9]]></dc:creator>
+		<pubDate>Sat, 10 Jul 2021 06:20:41 +0000</pubDate>
+				<guid isPermaLink="false">https://demo2wpopal.b-cdn.net/bodoni/product/enormous-wooden-wallet/</guid>
+
+					<description><![CDATA[Quis minima asperiores culpa deleniti. Numquam adipisci et quasi possimus harum inventore. Voluptate dicta corporis asperiores recusandae et.]]></description>
+										<content:encoded><![CDATA[<p>Consequatur voluptas possimus quisquam quod tenetur quis. Et dicta excepturi culpa sed doloremque nihil. Vero est tempore et dignissimos sed neque quasi.</p>
+<p>In voluptatem esse dicta voluptatibus explicabo esse odit. Facere autem harum sit ut quae. Fuga doloremque sit voluptatem.</p>
+<p>Corporis unde numquam repellendus sit debitis esse et ut. Laboriosam mollitia dolorem nulla libero qui minus nobis. Eos sit fugit ut et.</p>
+<p>Voluptatibus numquam quam fugit et quisquam. Est occaecati suscipit voluptas est. Explicabo quam similique sunt debitis veritatis rem.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/enormous-wooden-wallet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
